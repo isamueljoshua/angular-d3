@@ -1,5 +1,6 @@
 # Source:
 (https://github.com/jplemieux66/angular-d3-responsive) but I use Angular 8
+
 I have also followed a blog post created by the same author link:
 (https://medium.com/@jeanphilippelemieux/creating-a-responsive-graph-with-angular-and-d3-b45bb8065588)
 
